@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F0514B</color>
+
+    <color name="colorPrimaryDark">#C0403C</color>
+
+    <color name="colorAccent">#F0514B</color>
+
+    <color name="editorColorPrimary">#2D3640</color>
+
+    <color name="editorColorPrimaryDark">#394450</color>
+
+    <color name="colorPrimaryLight">#64b5f6</color>
+    <color name="colorTextPrimary">@android:color/white</color>
+    <color name="colorScreenBackground">#fff3e0</color>
+    <color name="colorTextHint">#E0E0E0</color>
+    <color name="purple_200">#c800c8 </color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_700">#00796B</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
